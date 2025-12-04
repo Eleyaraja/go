@@ -1,3 +1,50 @@
-// myweb
-// Created with Axion Studio
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Daniyal Modern School Blog</title>
+  <style>
+    /* Add some basic styling to the page */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+</head>
+<body>
+  <!-- Header Section -->
+  <header style="background-color: #333; color: #fff; padding: 20px; text-align: center;">
+    <h1 style="margin: 0;">Daniyal Modern School Blog</h1>
+  </header>
 
+  <!-- Navigation Bar -->
+  <nav style="background-color: #444; padding: 10px; text-align: center;">
+    <a href="#" style="color: #fff; text-decoration: none; margin: 10px;">Home</a>
+    <a href="#" style="color: #fff; text-decoration: none; margin: 10px;">About Us</a>
+    <a href="#" style="color: #fff; text-decoration: none; margin: 10px;">Contact Us</a>
+  </nav>
+
+  <!-- Main Content Section -->
+  <main style="display: flex; flex-direction: column; align-items: center; padding: 20px;">
+    <h2 style="margin-bottom: 10px;">Welcome to our Blog!</h2>
+    <p style="width: 80%; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+
+    <!-- Blog Post 1 -->
+    <div style="background-color: #f7f7f7; padding: 20px; margin: 10px; border: 1px solid #ddd; width: 80%;">
+      <h3 style="margin-top: 0;">Blog Post 1: Introduction to our School</h3>
+      <p style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+    </div>
+
+    <!-- Blog Post 2 -->
+    <div style="background-color: #f7f7f7; padding: 20px; margin: 10px; border: 1px solid #ddd; width: 80%;">
+      <h3 style="margin-top: 0;">Blog Post 2: Our Mission and Vision</h3>
+      <p style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+    </div>
+  </main>
+
+  <!-- Footer Section -->
+  <footer style="background-color: #333; color: #fff; padding: 10px; text-align: center; clear: both;">
+    <p style="margin: 0;">&copy; 2024 Daniyal Modern School. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
